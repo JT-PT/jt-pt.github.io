@@ -1,2 +1,9 @@
-# jt-pt.github.io
-O meu curriculo online
+# Curriculo Online
+
+---
+
+[Link Curriculo][Curriculo]
+
+
+
+[Curriculo]: https://jt-pt.github.io/#home
